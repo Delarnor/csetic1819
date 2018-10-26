@@ -1,0 +1,41 @@
+.headercontainer{
+  padding: 85px;
+  background: #663399;
+  border: solid black;
+}
+.logobox{
+}
+.toptextbox{
+  width: 50px;
+  padding: 20px;
+  background: purple;
+  border: solid pink;
+}
+.footercontainer{
+  padding: 50px;
+  background: tomato;
+}
+.box1{
+  border: solid black;
+  width: 50px;
+  padding: 50px;
+  background: red;
+}
+.box2{
+  border: solid black;
+  width: 50px;
+  padding: 50px;
+  background: lightblue;
+}
+.box3{
+  border: solid black;
+  width: 60px;
+  padding: 50px;
+  background: cyan;
+}
+.box4{
+  border: solid black;
+  width: 55px;
+  padding: 50px;
+  background: green;
+}
